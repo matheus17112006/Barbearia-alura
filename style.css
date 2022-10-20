@@ -1,4 +1,4 @@
-body {background: rgb(219, 219, 219);}
+body {background: gray;}
 
 img{
 	height: 400px;
@@ -7,4 +7,9 @@ img{
 
 p {
 	text-align: center;
+}
+
+h1{
+	text-align: center;
+	
 }
