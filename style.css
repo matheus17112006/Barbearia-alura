@@ -1,14 +1,10 @@
-body {
-	background: #CCCCCC
-}
-
-p {
-	text-align: center;
-
-
-}
+body {background: black;}
 
 img{
 	height: 400px;
 	width: 400px;
+}
+
+p {
+	text-align: center;
 }
